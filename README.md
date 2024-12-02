@@ -1,7 +1,6 @@
  #@csia77
-- Hi, I'm Chris a software engineer enthusiast currently taking a web development course along 
-- with my bachelor of science computer technology and I'm looking forwad to learn and collaborate with fellow developers for a better future with technology.
--You can find me through my social media handles  
+I’m an aspiring Blockchain Developer with a strong background in web development and a passion for creating decentralized applications and DeFi solutions.
+My mission is to build secure, transparent, and efficient systems using cutting-edge blockchain technologies.
       
 
 
